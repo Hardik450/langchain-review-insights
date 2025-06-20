@@ -63,10 +63,9 @@ GOOGLE_API_KEY=your_gemini_api_key
 3. Gemini processes the prompt and returns a structured JSON.
 4. The JSON includes:
 
-   * Review Summary
    * Sentiment (Positive / Neutral / Negative)
    * Highlights
-   * Summary
+   * Review Summary
 
 ---
 
